@@ -1,0 +1,4 @@
+<Window x:Class="GestorDocumental.Desktop.Views.ModalFiltrosWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+</Window>

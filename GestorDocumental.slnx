@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GestorDocumental.Application/GestorDocumental.Application.csproj" />
+    <Project Path="src/GestorDocumental.Desktop/GestorDocumental.Desktop.csproj" />
+    <Project Path="src/GestorDocumental.Domain/GestorDocumental.Domain.csproj" />
+    <Project Path="src/GestorDocumental.Infrastructure/GestorDocumental.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GestorDocumental.Application.Tests/GestorDocumental.Application.Tests.csproj" />
+    <Project Path="tests/GestorDocumental.Domain.Tests/GestorDocumental.Domain.Tests.csproj" />
+    <Project Path="tests/GestorDocumental.Infrastructure.Tests/GestorDocumental.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>

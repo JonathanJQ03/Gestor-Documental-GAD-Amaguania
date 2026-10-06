@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GestorDocumental.Application\GestorDocumental.Application.csproj" />
+    <ProjectReference Include="..\GestorDocumental.Infrastructure\GestorDocumental.Infrastructure.csproj" />
+    <ProjectReference Include="..\GestorDocumental.Domain\GestorDocumental.Domain.csproj" />
+  </ItemGroup>
+</Project>
